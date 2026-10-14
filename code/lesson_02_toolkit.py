@@ -1,7 +1,6 @@
 #Step 2:Task 1.2
 
 print(f"My AI Dev Toolkit")
-print("------------------")
 print(f"uv 0.13.0")
 print(f"python 3.13.5")
 print(f"code 1.141.0 2a59476c9bfcb90b3ddc372c36762471b7dfad1c x64")

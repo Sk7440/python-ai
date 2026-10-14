@@ -8,9 +8,9 @@ Problem = input("Biggest problem you are facing right now: ")
 # input always returns str, so convert to int with help of int() to make sure the budget is a number
 Budget = int(input("Monthly budget (PKR): "))
 
-print(f"\nWelcome Dear, {Name}!")
+print(f"Welcome Dear, {Name}!")
 
-print(f"--- This is Your AI Prompt ---")
+print(f"This is Your AI Prompt")
 
 
 Final_prompt = (
