@@ -1,20 +1,11 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
 # Python and uv
 .venv/
 __pycache__/
 
 # Private customer data: never push to a public repo
 chat_history.json
+transcript.json
+orders.json
+orders.csv
 errors.log
 transcript.txt
-orders.json
-  orders.csv
