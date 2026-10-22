@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+# Python and uv
+.venv/
+__pycache__/
+
+# Private customer data: never push to a public repo
+chat_history.json
+errors.log
+transcript.txt
+orders.json

@@ -1,0 +1,14 @@
+{
+  "name": "Sweet Crumbs",
+  "city": "Lahore",
+  "hours": "9 am to 10 pm, every day",
+  "phone": "0300 1234567",
+  "delivery": "Delivery anywhere in Lahore for 200 PKR, free on orders of 3,000 PKR or more",
+  "payment": "Cash on delivery, JazzCash or EasyPaisa",
+  "prices": {
+    "chocolate cake": 1500,
+    "cupcake": 250,
+    "brownie": 300,
+    "mango tart": 0
+  }
+}
